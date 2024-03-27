@@ -1,0 +1,15 @@
+[
+  {"primary": "39, 28, 25", "secondary": "255, 192, 173", "theme": "dark"},
+  {"primary": "254, 246, 228", "secondary": "0, 24, 88", "theme": "light"},
+  {"primary": "22, 22, 26", "secondary": "127, 90, 240", "theme": "dark"},
+  {"primary": "51, 54, 57", "secondary": "232, 230, 226", "theme": "dark"},
+  {"primary": "232, 230, 226", "secondary": "26, 27, 28", "theme": "light"},
+  {"primary": "26, 27, 28", "secondary": "232, 230, 226", "theme": "dark"},
+  {"primary": "39, 28, 25", "secondary": "245, 124, 0", "theme": "dark"},
+  {"primary": "245, 124, 0", "secondary": "232, 230, 226", "theme": "light"},
+  {"primary": "26, 27, 28", "secondary": "245, 124, 0", "theme": "dark"},
+  {"primary": "51, 54, 57", "secondary": "232, 230, 226", "theme": "dark"},
+  {"primary": "232, 230, 226", "secondary": "51, 54, 57", "theme": "light"},
+  {"primary": "26, 27, 28", "secondary": "232, 230, 226", "theme": "dark"},
+  {"primary": "51, 54, 57", "secondary": "0, 151, 167", "theme": "dark"}
+]
